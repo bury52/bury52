@@ -21,6 +21,6 @@
 [![My Skills](https://skillicons.dev/icons?i=angular&theme=dark)](https://github.com/AngularBOSZ)
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartkk0&layout=compact&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bartkk0&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bury52&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bury52&show_icons=true&theme=radical" />
 </div
