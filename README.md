@@ -1,16 +1,21 @@
-### Hi there 👋
+# Links
+[PROJECTS](https://github.com/ProjectBOSZ)
 
-<!--
-**bury52/bury52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## All Lenguages
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=angular&theme=dark)](https://github.com/AngularBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://github.com/C-CppBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=cs&theme=dark)](https://github.com/CsBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter&theme=dark)](https://github.com/Dart-FlutterBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://github.com/JavaBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark)](https://github.com/JavaScriptBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/ReactBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=rust&theme=dark)](https://github.com/RustBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=vue&theme=dark)](https://github.com/VueBOSZ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End
+
+[![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark)](https://github.com/JavaScriptBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=vue&theme=dark)](https://github.com/VueBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/ReactBOSZ)
+[![My Skills](https://skillicons.dev/icons?i=angular&theme=dark)](https://github.com/AngularBOSZ)
