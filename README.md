@@ -8,6 +8,6 @@
 
 ### Front-End:
 
-|                             [JavaScript](https://github.com/JavaScriptBOSZ)                              |                         [VueBOSZ](https://github.com/VueBOSZ)                           |                          [React](https://github.com/ReactBOSZ)                            |                           [Angular](https://github.com/AngularBOSZ)                             |
+|                             [JavaScript](https://github.com/JavaScriptBOSZ)                              |                          [Vue](https://github.com/VueBOSZ)                              |                          [React](https://github.com/ReactBOSZ)                            |                           [Angular](https://github.com/AngularBOSZ)                             |
 |:--------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
 | [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://github.com/JavaScriptBOSZ) | [![VueBOSZ](https://skillicons.dev/icons?i=vue&theme=dark)](https://github.com/VueBOSZ) | [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/ReactBOSZ) | [![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://github.com/AngularBOSZ) |
