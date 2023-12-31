@@ -21,3 +21,12 @@ C --> D(Work)
 D --> B
 C --> B
 ```
+
+```mermaid
+pie title This chart makes so much sense
+    "Sky" : 33
+    "Sunny side of pyramid" : 15
+    "Shady side of pyramid" : 7
+    "Sky2" : 33
+```
+
